@@ -36,7 +36,7 @@ class Pants:
         """The discount method outputs a discounted price of a pants object
 
         Args:
-            percentage (float): a decimal representing the amount to discount
+            discount (float): a decimal representing the amount to discount
 
         Returns:
             float: the discounted price
